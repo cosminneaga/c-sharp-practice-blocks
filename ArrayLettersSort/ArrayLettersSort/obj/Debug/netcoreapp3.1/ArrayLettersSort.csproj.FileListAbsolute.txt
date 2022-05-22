@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.exe
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.deps.json
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.runtimeconfig.json
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.dll
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\bin\Debug\netcoreapp3.1\ArrayLettersSort.pdb
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.dll
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.pdb
+C:\Users\kosmy\source\repos\ArrayLettersSort\ArrayLettersSort\obj\Debug\netcoreapp3.1\ArrayLettersSort.genruntimeconfig.cache

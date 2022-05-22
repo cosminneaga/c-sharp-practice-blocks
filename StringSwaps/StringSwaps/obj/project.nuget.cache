@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZODUwUuEmRHTfGqwhVqVgOwAfmQ/A7TrxcEVc/KOEauadrPFNY/os4di926rQYGb2GqJOSj2FXYLyjCk2SVAlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmy\\source\\repos\\StringSwaps\\StringSwaps\\StringSwaps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\FromGibberishUgly\bin\Debug\netcoreapp2.1\FromGibberishUgly.deps.json
+C:\Users\kosmy\source\repos\FromGibberishUgly\bin\Debug\netcoreapp2.1\FromGibberishUgly.runtimeconfig.json
+C:\Users\kosmy\source\repos\FromGibberishUgly\bin\Debug\netcoreapp2.1\FromGibberishUgly.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\FromGibberishUgly\bin\Debug\netcoreapp2.1\FromGibberishUgly.dll
+C:\Users\kosmy\source\repos\FromGibberishUgly\bin\Debug\netcoreapp2.1\FromGibberishUgly.pdb
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.dll
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.pdb
+C:\Users\kosmy\source\repos\FromGibberishUgly\obj\Debug\netcoreapp2.1\FromGibberishUgly.genruntimeconfig.cache

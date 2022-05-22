@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKoE8bzclglLM5BQRFCTtyCwrOIx7hm/SaObJlBZdTEuUrlPGhMoTuLGQRh8J5f72Oy47mEOcFDMmpnkycKPaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmy\\source\\repos\\BinaryOperations\\BinaryOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.2\\microsoft.codeanalysis.fxcopanalyzers.2.9.2.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.2\\microsoft.codeanalysis.versioncheckanalyzer.2.9.2.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.2\\microsoft.codequality.analyzers.2.9.2.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.2\\microsoft.netcore.analyzers.2.9.2.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.2\\microsoft.netframework.analyzers.2.9.2.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\roslynator.analyzers\\2.0.0\\roslynator.analyzers.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\sonaranalyzer.csharp\\7.14.0.8411\\sonaranalyzer.csharp.7.14.0.8411.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

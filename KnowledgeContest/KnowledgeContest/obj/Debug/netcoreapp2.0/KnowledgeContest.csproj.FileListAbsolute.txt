@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.deps.json
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.runtimeconfig.json
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.dll
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.pdb
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.dll
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.pdb
+C:\Users\kosmy\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.genruntimeconfig.cache

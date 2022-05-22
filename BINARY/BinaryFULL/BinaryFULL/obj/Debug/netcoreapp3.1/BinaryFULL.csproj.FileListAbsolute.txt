@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.exe
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.deps.json
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.runtimeconfig.json
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.dll
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\bin\Debug\netcoreapp3.1\BinaryFULL.pdb
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.dll
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.pdb
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.genruntimeconfig.cache
+C:\Users\kosmy\source\repos\BINARY\BinaryFULL\BinaryFULL\obj\Debug\netcoreapp3.1\BinaryFULL.csprojAssemblyReference.cache

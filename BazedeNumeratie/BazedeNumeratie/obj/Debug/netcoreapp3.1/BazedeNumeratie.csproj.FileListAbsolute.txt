@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.exe
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.deps.json
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.runtimeconfig.json
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.dll
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\bin\Debug\netcoreapp3.1\BazedeNumeratie.pdb
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.dll
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.pdb
+C:\Users\kosmy\source\repos\BazedeNumeratie\BazedeNumeratie\obj\Debug\netcoreapp3.1\BazedeNumeratie.genruntimeconfig.cache

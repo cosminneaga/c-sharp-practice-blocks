@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.exe
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.deps.json
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.runtimeconfig.json
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.dll
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\bin\Debug\netcoreapp3.1\WordsRepairSugestion.pdb
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.dll
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.pdb
+C:\Users\kosmy\source\repos\WordsRepairSugestion\WordsRepairSugestion\obj\Debug\netcoreapp3.1\WordsRepairSugestion.genruntimeconfig.cache

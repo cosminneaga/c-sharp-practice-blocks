@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WordCombinationsFactorialProbability/1.0.0": {
+        "runtime": {
+          "WordCombinationsFactorialProbability.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordCombinationsFactorialProbability/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

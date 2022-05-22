@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.deps.json
+C:\Users\kosmy\source\repos\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.runtimeconfig.json
+C:\Users\kosmy\source\repos\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.dll
+C:\Users\kosmy\source\repos\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.pdb
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.dll
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.pdb
+C:\Users\kosmy\source\repos\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.genruntimeconfig.cache

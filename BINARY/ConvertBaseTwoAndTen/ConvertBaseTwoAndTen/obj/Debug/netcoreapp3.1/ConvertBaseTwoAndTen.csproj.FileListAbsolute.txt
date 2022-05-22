@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.exe
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.deps.json
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.runtimeconfig.json
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.dll
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\bin\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.pdb
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.dll
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.pdb
+C:\Users\kosmy\source\repos\BINARY\ConvertBaseTwoAndTen\ConvertBaseTwoAndTen\obj\Debug\netcoreapp3.1\ConvertBaseTwoAndTen.genruntimeconfig.cache

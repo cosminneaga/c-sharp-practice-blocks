@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bhz87Tr5IZY2mIQzTD7NjAaQynHzFsRNBDOfC7F/a+Js3/SOOph4WrfOPAG4Zd7n+6RYRuew0/shx9FKWs4ctw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmy\\source\\repos\\CountTextOccurrences\\CountTextOccurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

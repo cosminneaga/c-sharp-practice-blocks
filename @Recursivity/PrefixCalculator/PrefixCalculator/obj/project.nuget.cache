@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ho1wMALAGgSNUlqbDaZTc9t9PPbCqsvhUugmdt8YiyWTp72PstmbiVbkl8y0MRp181w6RNtiaSNjtntVtLmS4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmy\\source\\repos\\CodesMadeForPlatformTesting\\@Recursivity\\PrefixCalculator\\PrefixCalculator\\PrefixCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

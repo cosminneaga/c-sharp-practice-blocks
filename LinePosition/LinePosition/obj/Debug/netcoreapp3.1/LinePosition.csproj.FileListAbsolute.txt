@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.exe
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.deps.json
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.runtimeconfig.json
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.dll
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\bin\Debug\netcoreapp3.1\LinePosition.pdb
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.dll
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.pdb
+C:\Users\kosmy\source\repos\LinePosition\LinePosition\obj\Debug\netcoreapp3.1\LinePosition.genruntimeconfig.cache

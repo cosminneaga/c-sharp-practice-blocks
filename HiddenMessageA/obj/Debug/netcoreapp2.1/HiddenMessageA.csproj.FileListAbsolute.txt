@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\HiddenMessageA\bin\Debug\netcoreapp2.1\HiddenMessageA.deps.json
+C:\Users\kosmy\source\repos\HiddenMessageA\bin\Debug\netcoreapp2.1\HiddenMessageA.runtimeconfig.json
+C:\Users\kosmy\source\repos\HiddenMessageA\bin\Debug\netcoreapp2.1\HiddenMessageA.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\HiddenMessageA\bin\Debug\netcoreapp2.1\HiddenMessageA.dll
+C:\Users\kosmy\source\repos\HiddenMessageA\bin\Debug\netcoreapp2.1\HiddenMessageA.pdb
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.dll
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.pdb
+C:\Users\kosmy\source\repos\HiddenMessageA\obj\Debug\netcoreapp2.1\HiddenMessageA.genruntimeconfig.cache

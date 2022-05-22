@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.exe
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.deps.json
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.runtimeconfig.json
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.dll
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\bin\Debug\netcoreapp3.1\EnglishAlphabet.pdb
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.dll
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.pdb
+C:\Users\kosmy\source\repos\EnglishAlphabet\EnglishAlphabet\obj\Debug\netcoreapp3.1\EnglishAlphabet.genruntimeconfig.cache

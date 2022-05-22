@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.exe
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\netcoreapp3.1\ConvertDecimalToBinary.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\netcoreapp3.1\ConvertDecimalToBinary.genruntimeconfig.cache

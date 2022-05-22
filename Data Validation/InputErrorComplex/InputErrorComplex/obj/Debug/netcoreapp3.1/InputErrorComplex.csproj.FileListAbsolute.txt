@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.exe
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.deps.json
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.runtimeconfig.json
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.dll
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\bin\Debug\netcoreapp3.1\InputErrorComplex.pdb
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.dll
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.pdb
+C:\Users\kosmy\source\repos\Data Validation\InputErrorComplex\InputErrorComplex\obj\Debug\netcoreapp3.1\InputErrorComplex.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\bin\Debug\netcoreapp2.0\StringSwaps.deps.json
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\bin\Debug\netcoreapp2.0\StringSwaps.runtimeconfig.json
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\bin\Debug\netcoreapp2.0\StringSwaps.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\bin\Debug\netcoreapp2.0\StringSwaps.dll
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\bin\Debug\netcoreapp2.0\StringSwaps.pdb
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.dll
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.pdb
+C:\Users\kosmy\source\repos\StringSwaps\StringSwaps\obj\Debug\netcoreapp2.0\StringSwaps.genruntimeconfig.cache

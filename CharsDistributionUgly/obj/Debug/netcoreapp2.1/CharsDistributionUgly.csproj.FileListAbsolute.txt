@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\CharsDistributionUgly\bin\Debug\netcoreapp2.1\CharsDistributionUgly.deps.json
+C:\Users\kosmy\source\repos\CharsDistributionUgly\bin\Debug\netcoreapp2.1\CharsDistributionUgly.runtimeconfig.json
+C:\Users\kosmy\source\repos\CharsDistributionUgly\bin\Debug\netcoreapp2.1\CharsDistributionUgly.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\CharsDistributionUgly\bin\Debug\netcoreapp2.1\CharsDistributionUgly.dll
+C:\Users\kosmy\source\repos\CharsDistributionUgly\bin\Debug\netcoreapp2.1\CharsDistributionUgly.pdb
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.dll
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.pdb
+C:\Users\kosmy\source\repos\CharsDistributionUgly\obj\Debug\netcoreapp2.1\CharsDistributionUgly.genruntimeconfig.cache

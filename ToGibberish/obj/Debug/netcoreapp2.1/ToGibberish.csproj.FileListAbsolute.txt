@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.deps.json
+C:\Users\kosmy\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.runtimeconfig.json
+C:\Users\kosmy\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.dll
+C:\Users\kosmy\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.pdb
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.dll
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.pdb
+C:\Users\kosmy\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.exe
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.dll
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\bin\Debug\netcoreapp3.1\PrefixCalculator.pdb
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.dll
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.pdb
+C:\Users\kosmy\source\repos\@Recursivity\PrefixCalculator\PrefixCalculator\obj\Debug\netcoreapp3.1\PrefixCalculator.genruntimeconfig.cache

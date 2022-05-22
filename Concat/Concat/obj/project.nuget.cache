@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnwO9WTIL3TWWUXGYe7WYlzQNOCW744Aq0HK9+2mH6BYCELVQ8qCjLMX17tsxDloXqROb2PveRJ36WMAw9LRVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmy\\source\\repos\\Concat\\Concat\\Concat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosmy\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

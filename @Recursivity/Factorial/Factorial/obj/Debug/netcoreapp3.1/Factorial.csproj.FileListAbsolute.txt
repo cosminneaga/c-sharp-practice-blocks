@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\kosmy\source\repos\@Recursivity\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

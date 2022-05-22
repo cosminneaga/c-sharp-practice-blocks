@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.exe
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.deps.json
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.runtimeconfig.json
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.dll
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\bin\Debug\netcoreapp3.1\AvioaneAlgoritm.pdb
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.dll
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.pdb
+C:\Users\kosmy\source\repos\AvioaneAlgoritm\AvioaneAlgoritm\obj\Debug\netcoreapp3.1\AvioaneAlgoritm.genruntimeconfig.cache

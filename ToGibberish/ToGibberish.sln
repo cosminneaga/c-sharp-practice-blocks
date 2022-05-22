@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGibberish", "ToGibberish.csproj", "{B12B3D00-AFAC-4BC3-A171-D2F270FE0E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12B3D00-AFAC-4BC3-A171-D2F270FE0E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12B3D00-AFAC-4BC3-A171-D2F270FE0E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12B3D00-AFAC-4BC3-A171-D2F270FE0E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12B3D00-AFAC-4BC3-A171-D2F270FE0E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A371482-6F30-4C3C-BF66-74A5557883B5}
+	EndGlobalSection
+EndGlobal

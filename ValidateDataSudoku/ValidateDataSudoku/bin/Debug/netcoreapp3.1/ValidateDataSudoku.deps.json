@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ValidateDataSudoku/1.0.0": {
+        "runtime": {
+          "ValidateDataSudoku.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValidateDataSudoku/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

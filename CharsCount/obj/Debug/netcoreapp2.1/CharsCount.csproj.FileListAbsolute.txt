@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\CharsCount\bin\Debug\netcoreapp2.1\CharsCount.deps.json
+C:\Users\kosmy\source\repos\CharsCount\bin\Debug\netcoreapp2.1\CharsCount.runtimeconfig.json
+C:\Users\kosmy\source\repos\CharsCount\bin\Debug\netcoreapp2.1\CharsCount.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\CharsCount\bin\Debug\netcoreapp2.1\CharsCount.dll
+C:\Users\kosmy\source\repos\CharsCount\bin\Debug\netcoreapp2.1\CharsCount.pdb
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.dll
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.pdb
+C:\Users\kosmy\source\repos\CharsCount\obj\Debug\netcoreapp2.1\CharsCount.genruntimeconfig.cache

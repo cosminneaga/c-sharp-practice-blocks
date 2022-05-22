@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.exe
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\bin\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertFromDecimalToHexadecimal\ConvertFromDecimalToHexadecimal\obj\Debug\netcoreapp3.1\ConvertFromDecimalToHexadecimal.genruntimeconfig.cache

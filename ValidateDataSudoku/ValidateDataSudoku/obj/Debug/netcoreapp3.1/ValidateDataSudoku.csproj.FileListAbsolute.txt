@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.exe
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.deps.json
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.runtimeconfig.json
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.dll
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\bin\Debug\netcoreapp3.1\ValidateDataSudoku.pdb
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.dll
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.pdb
+C:\Users\kosmy\source\repos\ValidateDataSudoku\ValidateDataSudoku\obj\Debug\netcoreapp3.1\ValidateDataSudoku.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.deps.json
+C:\Users\kosmy\source\repos\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.runtimeconfig.json
+C:\Users\kosmy\source\repos\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.dll
+C:\Users\kosmy\source\repos\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.pdb
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.dll
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.pdb
+C:\Users\kosmy\source\repos\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.genruntimeconfig.cache

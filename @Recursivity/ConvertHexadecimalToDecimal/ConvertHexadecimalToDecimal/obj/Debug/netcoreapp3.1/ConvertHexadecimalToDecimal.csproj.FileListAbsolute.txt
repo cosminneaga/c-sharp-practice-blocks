@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.exe
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\bin\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.dll
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.pdb
+C:\Users\kosmy\source\repos\@Recursivity\ConvertHexadecimalToDecimal\ConvertHexadecimalToDecimal\obj\Debug\netcoreapp3.1\ConvertHexadecimalToDecimal.genruntimeconfig.cache

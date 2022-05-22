@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.exe
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.deps.json
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.runtimeconfig.json
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.dll
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\bin\Debug\netcoreapp3.1\LoterieSanseCastig.pdb
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.dll
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.pdb
+C:\Users\kosmy\source\repos\LoterieSanseCastig\LoterieSanseCastig\obj\Debug\netcoreapp3.1\LoterieSanseCastig.genruntimeconfig.cache

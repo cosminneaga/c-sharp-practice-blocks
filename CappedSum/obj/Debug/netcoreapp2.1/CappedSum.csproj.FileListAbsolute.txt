@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\CappedSum\bin\Debug\netcoreapp2.1\CappedSum.deps.json
+C:\Users\kosmy\source\repos\CappedSum\bin\Debug\netcoreapp2.1\CappedSum.runtimeconfig.json
+C:\Users\kosmy\source\repos\CappedSum\bin\Debug\netcoreapp2.1\CappedSum.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\CappedSum\bin\Debug\netcoreapp2.1\CappedSum.dll
+C:\Users\kosmy\source\repos\CappedSum\bin\Debug\netcoreapp2.1\CappedSum.pdb
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.dll
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.pdb
+C:\Users\kosmy\source\repos\CappedSum\obj\Debug\netcoreapp2.1\CappedSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.exe
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.deps.json
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.runtimeconfig.json
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.dll
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\bin\Debug\netcoreapp3.1\BottomUp.pdb
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.dll
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.pdb
+C:\Users\kosmy\source\repos\TOPDOWN BOTTOMUP\BottomUp\BottomUp\obj\Debug\netcoreapp3.1\BottomUp.genruntimeconfig.cache

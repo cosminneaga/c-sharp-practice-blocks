@@ -1,0 +1,13 @@
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.exe
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.deps.json
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.runtimeconfig.json
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.dll
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\bin\Debug\netcoreapp3.1\BatoaneCiocolata.pdb
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.csprojAssemblyReference.cache
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.dll
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.pdb
+C:\Users\kosmy\source\repos\@Recursivity\BatoaneCiocolata\BatoaneCiocolata\obj\Debug\netcoreapp3.1\BatoaneCiocolata.genruntimeconfig.cache

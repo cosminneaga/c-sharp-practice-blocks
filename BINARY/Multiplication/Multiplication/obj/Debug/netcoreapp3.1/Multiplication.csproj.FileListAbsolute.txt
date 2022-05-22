@@ -1,0 +1,12 @@
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.exe
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.deps.json
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.runtimeconfig.json
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.runtimeconfig.dev.json
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.dll
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\bin\Debug\netcoreapp3.1\Multiplication.pdb
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfoInputs.cache
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.AssemblyInfo.cs
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.dll
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.pdb
+C:\Users\kosmy\source\repos\BINARY\Multiplication\Multiplication\obj\Debug\netcoreapp3.1\Multiplication.genruntimeconfig.cache
